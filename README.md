@@ -1,3 +1,5 @@
+_December 2024_
+
 Mini calculator application
 
 Created with Python Tkinter package
